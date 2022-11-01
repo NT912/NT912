@@ -78,10 +78,6 @@
   </tr>
 </table>
 
-## <p align="center">📊 &nbsp;This week I spent my time on</p>
-
-![Wwakatime stats]
-
 ## <p align="center">📈 &nbsp;My GitHub Stats</p>
 
 <p align='center'>
