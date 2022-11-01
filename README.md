@@ -73,7 +73,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#NhatTruong-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg" width="48" height="48" alt="MacOS" />
+        <img src="https://github.com/NT912/NT912/blob/main/applelogo.png" width="48" height="48" alt="MacOS" />
       </a>
       <br>MacOS
     </td>
