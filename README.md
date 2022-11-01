@@ -11,7 +11,7 @@
 
 ## <p align="center">🚀 &nbsp;Some Language and Tools I Use</p>
 
-<table>
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="#NhatTruong-tech">
