@@ -1,4 +1,4 @@
-<img src="https://github.com/NT912/NT912/blob/main/head.png">
+<img src="https://github.com/NT912/NT912/blob/main/img/head.png">
 
 ## <p align="center">🔗 &nbsp;Connect with me</p>
 
@@ -71,7 +71,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#NhatTruong-tech">
-        <img src="https://github.com/NT912/NT912/blob/main/applelogo.png" width="48" height="48" alt="MacOS" />
+        <img src="https://github.com/NT912/NT912/blob/main/img/applelogo.png" width="48" height="48" alt="MacOS" />
       </a>
       <br>MacOS
     </td>
@@ -92,7 +92,7 @@
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
-<img src="https://github.com/NT912/NT912/blob/main/github-contribution-grid-snake.svg">
+<img src="https://github.com/NT912/NT912/blob/main/img/github-contribution-grid-snake.svg">
 </p>
 
 <hr>
