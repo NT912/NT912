@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/_thntruong_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@nt912" target="blank"><img align="center" src="https://images.wallpapersden.com/image/download/tiktok-logo_bGpsaWiUmZqaraWkpJRnamtlrWZpaWU.jpg" alt="Tiktok" height="30" width="40" /></a>
 
-## <p align="center">🚀 &nbsp;Some Language and Tools I Use</p>
+## <p align="center">🚀 &nbsp;Some Languages and Tools I Use</p>
 
 <table align="center">
   <tr>
