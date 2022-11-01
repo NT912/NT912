@@ -1,4 +1,4 @@
-<img src="https://github.com/NT912/NT912/blob/main/header.png">
+<img src="https://github.com/NT912/NT912/blob/main/head.png">
 
 ## <p align="center">🔗 &nbsp;Connect with me</p>
 
