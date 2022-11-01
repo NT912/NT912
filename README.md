@@ -86,7 +86,7 @@
 </p>
 
 
-## <p align="center">Just a snake eating my contributions 🐍</p>
+## <p align="center">🐍 Just a snake eating my contributions</p>
 <p align='center'>
 <img src="https://github.com/NT912/NT912/blob/main/img/github-contribution-grid-snake.svg">
 </p>
