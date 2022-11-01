@@ -2,7 +2,7 @@
 
 ## <p align="center">🔗 &nbsp;Connect with me</p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.youtube.com/channel/UCTZZhy9XR1T1MsbJIwI7G2g" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Youtube" height="30" width="40" /></a>
 <a href="https://www.facebook.com/tranhuunhattruong" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/tranhuunhattruong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
@@ -10,7 +10,6 @@
 <a href="https://www.tiktok.com/@nt912" target="blank"><img align="center" src="https://images.wallpapersden.com/image/download/tiktok-logo_bGpsaWiUmZqaraWkpJRnamtlrWZpaWU.jpg" alt="Tiktok" height="30" width="40" /></a>
 
 ## <p align="center">🚀 &nbsp;Some Language and Tools I Use</p>
-> Tools, languages, and other things that I like to work with.
 
 <table>
   <tr>
@@ -80,8 +79,7 @@
 </table>
 
 ## <p align="center">📊 &nbsp;This week I spent my time on</p>
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777">
 
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
