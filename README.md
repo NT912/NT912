@@ -78,7 +78,11 @@
   </tr>
 </table>
 
-## <p align="center">📈 &nbsp;My GitHub Stats:</p>
+## <p align="center">📊 &nbsp;This week I spent my time on</p>
+
+![Wwakatime stats]
+
+## <p align="center">📈 &nbsp;My GitHub Stats</p>
 
 <p align='center'>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NT912&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
