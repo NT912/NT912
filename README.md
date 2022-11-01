@@ -78,9 +78,6 @@
   </tr>
 </table>
 
-## <p align="center">📊 &nbsp;This week I spent my time on</p>
-<img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777">
-
 ## <p align="center">📈 &nbsp;My GitHub Stats:</p>
 
 <p align='center'>
