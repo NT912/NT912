@@ -81,6 +81,14 @@
 ## <p align="center">📊 &nbsp;This week I spent my time on</p>
 <img align="center" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777">
 
+## <p align="center">📈 &nbsp;My GitHub Stats:</p>
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NT912&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NT912&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+
 ## <p align="center">Just a snake eating my contributions 🐍</p>
 <p align='center'>
 <img src="https://github.com/NT912/NT912/blob/main/github-contribution-grid-snake.svg">
