@@ -1,6 +1,6 @@
 <img src="https://github.com/NT912/NT912/blob/main/header.png">
 
-🔗 &nbsp;**Connect with me**
+<h2> 🔗 &nbsp;Connect with me </h2>
 
 <p align="left">
 <a href="https://www.youtube.com/channel/UCTZZhy9XR1T1MsbJIwI7G2g" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Youtube" height="30" width="40" /></a>
@@ -9,11 +9,7 @@
 <a href="https://www.instagram.com/_thntruong_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
 <a href="https://www.tiktok.com/@nt912" target="blank"><img align="center" src="https://images.wallpapersden.com/image/download/tiktok-logo_bGpsaWiUmZqaraWkpJRnamtlrWZpaWU.jpg" alt="Tiktok" height="30" width="40" /></a>
 
-📊 &nbsp;**This week I spent my time on**
-
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Some Language and Tools I Use</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -83,3 +79,7 @@
     </td>
   </tr>
 </table>
+
+<h2> 📊 &nbsp;This week I spent my time on </h2>
+
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
