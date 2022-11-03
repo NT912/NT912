@@ -53,6 +53,12 @@
     </td>
     <td align="center" width="96"> 
       <a href="#NhatTruong-tech" >
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="48" height="48" alt="Neovim" />
+      </a>
+      <br>Neovim
+    </td>
+    <td align="center" width="96"> 
+      <a href="#NhatTruong-tech" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VsCode" />
       </a>
       <br>VsCode
