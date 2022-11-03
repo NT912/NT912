@@ -33,13 +33,6 @@
     </td>
     <td align="center" width="96">
       <a href="#NhatTruong-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width="48" height="48" alt="Lua" />
-      </a>
-      <br>Lua
-    </td>
-    </td>
-    <td align="center" width="96">
-      <a href="#NhatTruong-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br>MySQL
