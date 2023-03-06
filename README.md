@@ -33,9 +33,15 @@
     </td>
     <td align="center" width="96">
       <a href="#NhatTruong-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Spring" />
       </a>
-      <br>MySQL
+      <br>NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="#NhatTruong-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>SQL Server
     </td>
     <td align="center" width="96">
       <a href="#NhatTruong-tech">
