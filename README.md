@@ -27,15 +27,22 @@
     </td>
     <td align="center" width="96">
       <a href="#NhatTruong-tech">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="48" height="48" alt="Spring" />
+        <img src="https://icons8.com/icon/108784/javascript" width="48" height="48" alt="Spring" />
       </a>
-      <br>Spring
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#NhatTruong-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://icons8.com/icon/hsPbhkOH4FMe/node-js" width="48" height="48" alt="MySQL" />
       </a>
-      <br>MySQL
+      <br>NodeJS
+    </td>
+     <td align="center" width="96">
+      <a href="#NhatTruong-tech">
+        <img src="https://icons8.com/icon/JREKfp1O3b8G/sql-server" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>SQL Server
+    </td>
     </td>
     <td align="center" width="96">
       <a href="#NhatTruong-tech">
