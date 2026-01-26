@@ -1,100 +1,139 @@
-<img src="https://github.com/NT912/NT912/blob/main/img/head.png">
+<img src="https://github.com/NT912/NT912/blob/main/img/head.png" />
 
-## <p align="center">🔗 &nbsp;Connect with me</p>
+---
 
-<p align="center">
-<a href="https://www.youtube.com/channel/UCTZZhy9XR1T1MsbJIwI7G2g" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" alt="Youtube" height="30" width="40" /></a>
-<a href="https://www.facebook.com/tranhuunhattruong" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/tranhuunhattruong/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.instagram.com/_thntruong_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.tiktok.com/@nt912" target="blank"><img align="center" src="https://images.wallpapersden.com/image/download/tiktok-logo_bGpsaWiUmZqaraWkpJRnamtlrWZpaWU.jpg" alt="Tiktok" height="30" width="40" /></a>
-
-## <p align="center">🚀 &nbsp;Some Languages and Tools I Use</p>
+<h3 align="center">🔗 Connect with me</h3>
 
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" width="48" height="48" alt="C++" />
+      <a href="mailto:tt912002@gmail.com">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="36"/>
+        <br/>Email
       </a>
-      <br>C++
     </td>
     <td align="center" width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="48" height="48" alt="Java" />
+      <a href="https://www.facebook.com/tranhuunhattruong" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="36"/>
+        <br/>Facebook
       </a>
-      <br>Java
     </td>
     <td align="center" width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="48" height="48" alt="Spring" />
+      <a href="https://www.linkedin.com/in/tranhuunhattruong/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36"/>
+        <br/>LinkedIn
       </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" width="48" height="48" alt="Spring" />
-      </a>
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/de/8/8c/Microsoft_SQL_Server_Logo.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br>SQL Server
-    </td>
-    <td align="center" width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDb" />
-      </a>
-      <br>MongoDb
-      <br>(Learning)
-    </td>
-    <td align="center" width="96"> 
-      <a href="#NhatTruong-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Neovim-mark.svg" width="48" height="48" alt="Neovim" />
-      </a>
-      <br>Neovim
-    </td>
-    <td align="center" width="96"> 
-      <a href="#NhatTruong-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VsCode" />
-      </a>
-      <br>VsCode
-    </td>
-    <td align="center" width="96">
-      <a href="#NhatTruong-tech" >
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="48" height="48" alt="Intellij" />
-      </a>
-      <br>Intellij
-    </td>
-    <td align="center"  width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" width="48" height="48" alt="Github" />
-      </a>
-      <br>Github
-    </td>
-    <td align="center"  width="96">
-      <a href="#NhatTruong-tech">
-        <img src="https://github.com/NT912/NT912/blob/main/img/applelogo.png" width="48" height="48" alt="MacOS" />
-      </a>
-      <br>MacOS
     </td>
   </tr>
 </table>
 
-## <p align="center">📈 &nbsp;My GitHub Stats</p>
+---
 
-<p align='center'>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NT912&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NT912&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<h3 align="center">🚀 Languages</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+      <br/>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+      <br/>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+      <br/>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"/>
+      <br/>Golang
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🗄️ Databases</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+      <br/>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+      <br/>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+      <br/>MySQL
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3 align="center">🛠️ Tools & Platforms</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+      <br/>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+      <br/>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/>
+      <br/>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+      <br/>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.simpleicons.org/apple/FFFFFF" width="40"/>
+      <br/>macOS
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/honojs/hono/main/docs/images/hono-logo.svg" width="40"/>
+      <br/>Hono
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/colinhacks/zod/main/logo.svg" width="40"/>
+      <br/>Zod
+    </td>
+  </tr>
+</table>
+
+---
+
+## <p align="center">📈 &nbsp;GitHub Stats</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NT912&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    height="170"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=NT912&layout=compact&theme=tokyonight&hide_border=true"
+    height="170"
+  />
 </p>
 
+---
 
-## <p align="center">🐍 Just a snake eating my contributions</p>
-<p align='center'>
-<img src="https://github.com/NT912/NT912/blob/main/img/github-contribution-grid-snake.svg">
+## <p align="center">🐍 &nbsp;Contribution Snake</p>
+
+<p align="center">
+  <img
+    src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake"
+  />
 </p>
 
-<hr>
-<br>
+<hr/>
