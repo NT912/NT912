@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Software%20Engineer-0EA5E9?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Backend%20Engineer-6366F1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/System%20Builder-A855F7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/English-EC4899?style=for-the-badge"/>
 
 </div>
 
